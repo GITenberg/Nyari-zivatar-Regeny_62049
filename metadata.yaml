@@ -1,0 +1,28 @@
+_repo: Nyari-zivatar-Regeny_62049
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Biró, Lajos
+    alias: Biro, Lajos
+    birthdate: 1880
+    deathdate: 1948
+    gutenberg_agent_id: '51735'
+    url: http://www.gutenberg.org/2009/agents/51735
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Lajos_B%C3%ADr%C3%B3
+    - https://hu.wikipedia.org/wiki/B%C3%ADr%C3%B3_Lajos_(%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2020-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62049'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Hungarian fiction -- 20th century'
+- GITenberg
+title: 'Nyári zivatar: Regény'
+url: http://www.gutenberg.org/ebooks/62049
